@@ -1,7 +1,7 @@
-## 👋 Olá, viajante eu sou a Bruna  
+## 👋 Olá, viajante me chamo Bruna  
 # Bem-vindo(a) ao meu perfil do GitHub!
 
-<img width="500" height="500" alt="Saudações, viajante!" src="https://github.com/user-attachments/assets/e3dfd2d1-225c-4631-8b57-b30d1004672a" />
+<img width="300" height="300" alt="Saudações, viajante!" src="https://github.com/user-attachments/assets/e3dfd2d1-225c-4631-8b57-b30d1004672a" />
 
 🎓 Atualmente estou em transição de carreira para a área de **tecnologia**, estudando **Desenvolvimento Full Stack** na [FIAP](https://www.fiap.com.br/).  
 💡 Meu foco é aprender e aplicar boas práticas de desenvolvimento, construir projetos colaborativos e resolver problemas de forma criativa.  
