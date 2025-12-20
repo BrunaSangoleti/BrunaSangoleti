@@ -1,7 +1,13 @@
-## 👋 Olá, viajante me chamo Bruna  
+## 👋 Olá,  
 # Bem-vindo(a) ao meu perfil do GitHub!
 
-<img width="300" height="300" alt="Saudações, viajante!" src="https://github.com/user-attachments/assets/e3dfd2d1-225c-4631-8b57-b30d1004672a" />
+<div align="center">
+  <img
+    width="300"
+    height="300"
+    alt="Saudações, viajante!"
+    src="https://github.com/user-attachments/assets/e3dfd2d1-225c-4631-8b57-b30d1004672a"/>
+</div>
 
 🎓 Atualmente estou em transição de carreira para a área de **tecnologia**, estudando **Desenvolvimento Full Stack** na [FIAP](https://www.fiap.com.br/).  
 💡 Meu foco é aprender e aplicar boas práticas de desenvolvimento, construir projetos colaborativos e resolver problemas de forma criativa.  
@@ -21,7 +27,9 @@
 ✨ Aqui você vai encontrar meus projetos, exercícios e estudos — cada repositório representa um passo nessa jornada de aprendizado!
 
 <div>
-<a href="https://github.com/BrunaSangoleti">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?BrunaSangoleti&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunaSangoleti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/BrunaSangoleti">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaSangoleti&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunaSangoleti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
 </div>
+
