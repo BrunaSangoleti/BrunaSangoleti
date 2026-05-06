@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Bruna!
+# 👋 Oi Dev, 
 
 <div align="center">
   <img
