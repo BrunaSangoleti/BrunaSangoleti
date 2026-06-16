@@ -37,7 +37,7 @@ Sou uma **Desenvolvedora Full Stack** em transição de carreira, unindo a preci
 
 #### 1. CarePlus - Portal de Saúde Inteligente
 O projeto visa solucionar o alto índice de *no-show* nas clínicas, que gerava custos desnecessários e ociosidade médica. A solução entregue é um portal web responsivo que transforma a experiência de agendamento. Para garantir o comparecimento do paciente, o sistema oferece integração com rotas em tempo real, análise climática e links diretos para Waze, Maps e Google Agenda, além de gamificação para engajamento.
-[🔗 Ver o repositório completo](link-do-seu-fork-do-care-plus)
+[🔗 Ver o repositório completo]([link-do-seu-fork-do-care-plus](https://github.com/BrunaSangoleti/challenge-care-plus))
 
 #### 2. Fintech - Plataforma de Conscientização Financeira
 Plataforma Fintech concebida para combater o endividamento por meio da conscientização financeira. A solução ajuda os usuários a rastrearem seus gastos, facilitando a economia e a construção de patrimônio. Trata-se de uma aplicação *Full Stack* composta por uma interface web responsiva e uma API backend em Java, incluindo sistema CRUD completo, autenticação, tratamento rigoroso de erros e persistência em Oracle SQL.
@@ -45,13 +45,9 @@ Plataforma Fintech concebida para combater o endividamento por meio da conscient
 
 ---
 
-### 📫 Como me encontrar
 
-*   **LinkedIn:** [linkedin.com/in/seu-usuario](link-do-seu-linkedin)
-*   **E-mail:** [seu-email@gmail.com](mailto:seu-email@gmail.com)
 
-⭐️ *Obrigada por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios.*
----
+
 
 ### 📫 Vamos nos conectar?
 
@@ -62,7 +58,8 @@ Plataforma Fintech concebida para combater o endividamento por meio da conscient
 </div>
 
 ---
-
+⭐️ *Obrigada por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios.*
+---
 ### 📊 Estatísticas
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaSangoleti&layout=compact&langs_count=7&theme=dracula" />
