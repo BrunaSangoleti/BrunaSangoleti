@@ -41,7 +41,7 @@ O projeto visa solucionar o alto índice de *no-show* nas clínicas, que gerava 
 
 #### 2. Fintech - Plataforma de Conscientização Financeira
 Plataforma Fintech concebida para combater o endividamento por meio da conscientização financeira. A solução ajuda os usuários a rastrearem seus gastos, facilitando a economia e a construção de patrimônio. Trata-se de uma aplicação *Full Stack* composta por uma interface web responsiva e uma API backend em Java, incluindo sistema CRUD completo, autenticação, tratamento rigoroso de erros e persistência em Oracle SQL.
-[🔗 Ver o repositório completo](link-do-seu-repositorio-fintech)
+[🔗 Ver o repositório completo]([link-do-seu-repositorio-fintech](https://github.com/BrunaSangoleti/Fintech-Poupyg))
 
 ---
 
