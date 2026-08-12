@@ -1,6 +1,8 @@
+<img src="https://media.giphy.com/media/UxBrDCprihOSTfAIZM/giphy.gif" width="480" alt="Anya Spy x Family">
+
 # 💫 About Me:
 Hi there! 👋 I'm Bruna, a passionate Back-end Developer.<br>
-<img src="https://media.giphy.com/media/UxBrDCprihOSTfAIZM/giphy.gif" width="480" alt="Anya Spy x Family">
+
 <br>I specialize in building robust, scalable APIs and systems with a strong emphasis on **clean architecture, design patterns, and software quality**. I believe that good code is not just functional, but maintainable and well-structured.<br><br>Currently, I'm diving deep into the most in-demand databases (both relational and NoSQL) and actively collaborating on **open-source projects**, where I enjoy participating in discussions and architectural meetings.<br><br>### 🚀 What I'm up to:<br>- 💻 Developing backend solutions using **Java (Spring Boot)** and **Node.js**.<br>- 🗄️ Designing and modeling complex databases (Oracle SQL, PostgreSQL, Supabase, and NoSQL).<br>- 🤝 Actively contributing to open-source projects and community discussions.<br>- 🎓 Studying Systems Analysis and Development at FIAP.<br>- 🤖 Leveraging Generative AI as a pair-programming copilot to write cleaner, refactored code.<br><br>
 
 
