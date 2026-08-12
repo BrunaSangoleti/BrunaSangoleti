@@ -1,4 +1,7 @@
-<img src="https://media.giphy.com/media/UxBrDCprihOSTfAIZM/giphy.gif" width="480" alt="Anya Spy x Family">
+<div align="center">
+  <img src="https://media.giphy.com/media/UxBrDCprihOSTfAIZM/giphy.gif" width="300" alt="Anya Spy x Family">
+  <img src="https://media.giphy.com/media/992J91cmCd4WYEzgu8/giphy.gif" width="300" alt="Frieren">
+</div>
 
 # 💫 About Me:
 Hi there! 👋 I'm Bruna, a passionate Back-end Developer.<br>
