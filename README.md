@@ -19,6 +19,6 @@ Hi there! 👋 I'm Bruna, a passionate Back-end Developer.<br><br>I specialize i
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=BrunaSangoleti&icon=0&color=4)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
