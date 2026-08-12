@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/UxBrDCprihOSTfAIZM/giphy.gif" width="300" alt="Anya Spy x Family">
-  <img src="https://media.giphy.com/media/992J91cmCd4WYEzgu8/giphy.gif" width="300" alt="Frieren">
+  <img src="https://media.giphy.com/media/UxBrDCprihOSTfAIZM/giphy.gif" height="220" alt="Anya Spy x Family">
+  <img src="https://media.giphy.com/media/992J91cmCd4WYEzgu8/giphy.gif" height="220" alt="Frieren">
 </div>
 
 # 💫 About Me:
